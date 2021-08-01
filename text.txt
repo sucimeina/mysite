@@ -1,0 +1,3 @@
+Nama    : Suci Meina Rahmayani
+Kelas   : Back End C
+Tugas   : Git dasar     
